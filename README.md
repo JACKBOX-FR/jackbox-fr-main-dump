@@ -1,7 +1,21 @@
-**This dump works very differently from the last one.** Please let me know if you have any questions, issues, bugs, or requests.</u>
+Une Base de https://github.com/jackbox-int/tv
 
-You will have to port over most of your translations manually.
-
----
-
-*IMPORTANT NOTE:* When changing the titles of games, **You ONLY need to change them in the** @connect **and** @moderator **scripts.** Changing them in any other file is unnecessary.
+Avancement des traductions:
+### Liste des jeux
+- ❌ [Party pack 11]
+- ❌ [Party pack 10] Officiellement traduit par Jackbox Games
+- ❌ [Party pack 9] Officiellement traduit par Jackbox Games
+- ❌ [Party pack 8]
+- ❌ [Party pack 7]
+- ❌ [Party pack 6]
+- ❌ [Party pack 5]
+- ❌ [Party pack 4]
+- ❌ [Party pack 3]
+- ❌ [Party pack 2]
+- ❌ [Party pack 1]
+- ❌ [Naughty Pack (ppad)]
+- ❌ [TJSP]
+- ❌ [standalone]
+✅ Terminé
+⚪ Commencé mais non terminé
+❌ Non commencé
