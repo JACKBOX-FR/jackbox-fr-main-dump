@@ -16,6 +16,7 @@ Avancement des traductions:
 - ❌ [Naughty Pack (ppad)]
 - ❌ [TJSP]
 - ❌ [standalone]
+
 ✅ Terminé
 ⚪ Commencé mais non terminé
 ❌ Non commencé
